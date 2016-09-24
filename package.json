@@ -1,4 +1,8 @@
 {
   "name": "bogart-controller",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "dependencies": {
+    "bogart-injector": "^1.1.1",
+    "lodash": "^4.16.1"
+  }
 }
