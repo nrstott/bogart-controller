@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "dependencies": {
     "bogart-injector": "^1.1.1",
+    "form-warden": "^2.0.27",
     "lodash": "^4.16.1"
   }
 }
