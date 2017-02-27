@@ -1,6 +1,6 @@
 {
   "name": "bogart-controller",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "dependencies": {
     "bogart-injector": "^1.1.1",
     "form-warden": "^2.0.27",
