@@ -1,4 +1,10 @@
 {
   "name": "bogart-controller",
-  "version": "1.0.0"
+  "version": "1.0.16",
+  "dependencies": {
+    "bogart-injector": "^1.1.1",
+    "form-warden": "^2.0.27",
+    "lodash": "^4.16.1",
+    "serialize-javascript": "^1.3.0"
+  }
 }
